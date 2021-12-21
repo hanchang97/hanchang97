@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 ![hanchang97's github stats](https://github-readme-stats.vercel.app/api?username=hanchang97&show_icons=true)
 
-[![hanchang97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hanchang97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hanchang97)
+<!-- [![hanchang97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hanchang97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hanchang97) -->
+
+
+💪stack
+
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
